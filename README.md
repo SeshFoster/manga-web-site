@@ -16,10 +16,10 @@
 
 ### 👨 &nbsp;How to Launch This Project
 
-&bshp; You need to download this project, you can download it from the github link or add git init to your project via SSH keys. 
+&nbsp;You need to download this project, you can download it from the github link or add git init to your project via SSH keys. 
 
-&bshp; The following, since the code has the PHP language, then you need to have PHP, apache on your device. 
+&nbsp;The following, since the code has the PHP language, then you need to have PHP, apache on your device. 
 
-&bshp; To run the server in PHP, you can use Open Server, Ampps, docker - if you work on Windows OS.
+&nbsp;To run the server in PHP, you can use Open Server, Ampps, docker - if you work on Windows OS.
 
-&bshp; To run a linux project, you need to use docker, xampp.
+&nbsp;To run a linux project, you need to use docker, xampp.
