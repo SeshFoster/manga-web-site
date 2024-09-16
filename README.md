@@ -8,8 +8,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Project\
 
-&nbsp;The site is written in HTML and CSS markup and style languages. Also in the PHP programming language in a JavaScript combination.\
+&nbsp;The site is written in HTML and CSS markup and style languages. Also in the PHP programming language in a JavaScript combination.
 
-&nbsp;The site is a copy Remanga.org !\
+&nbsp;The site is a copy Remanga.org !
 
-&nbsp;I was not trying to steal someone else's site to harm, I made this site so that you can change the design for yourself and use this template.\
+&nbsp;I was not trying to steal someone else's site to harm, I made this site so that you can change the design for yourself and use this template.
+
+### 👨 &nbsp;How to Launch This Project
