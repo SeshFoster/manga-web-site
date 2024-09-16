@@ -23,3 +23,17 @@
 &nbsp;To run the server in PHP, you can use Open Server, Ampps, docker - if you work on Windows OS.
 
 &nbsp;To run a linux project, you need to use docker, xampp.
+
+### 🤓 &nbsp;Project architecture
+
+&nbsp;The order_one folder is the root folder of the project, then the project branches into files and folders.
+
+&nbsp;The css folder contains the styles connected to the project.
+
+&nbsp;The database folder contains a database, no data is stored there, just an approximate architecture of the database table. 
+
+&nbsp;The img folder contains the images connected to the project. 
+
+&nbsp;Source is a folder with all scripts. 
+
+&nbsp;Index.php - the main page of the site.
